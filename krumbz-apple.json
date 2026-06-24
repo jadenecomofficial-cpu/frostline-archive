@@ -1,0 +1,120 @@
+{
+  "album": {
+    "name": "Kontentz Under Pressure",
+    "year": "2003",
+    "url": "https://music.apple.com/us/album/kontentz-under-pressure/5130305?uo=4",
+    "artistUrl": "https://music.apple.com/us/artist/krumbz/5130268?uo=4",
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Features/89/bc/d3/dj.naxzohni.tif/1200x1200bb.jpg",
+    "trackCount": 18
+  },
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Cue Labz Intro (featuring DJ Special K)",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/73/0e/79/730e7998-c2e7-81fc-6f4a-d8876ee2bb4e/mzaf_1015580144832717404.plus.aac.p.m4a",
+      "sec": 70
+    },
+    {
+      "n": 2,
+      "title": "Kontentz Under Pressure",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/cf/24/2f/mzm.hqadmcjp.aac.p.m4a",
+      "sec": 280
+    },
+    {
+      "n": 3,
+      "title": "K.R.U.M.B.Z.",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/35/2e/fd/mzm.idikznwe.aac.p.m4a",
+      "sec": 220
+    },
+    {
+      "n": 4,
+      "title": "No Gimmickz",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/26/67/23/26672361-d726-68f3-10ca-5984ba1e1b55/mzaf_3295909970945159562.plus.aac.p.m4a",
+      "sec": 253
+    },
+    {
+      "n": 5,
+      "title": "The Only One",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/a2/dd/96/a2dd96ee-84a8-1915-c54d-2b729a2bae5c/mzaf_1823926535569811233.plus.aac.p.m4a",
+      "sec": 222
+    },
+    {
+      "n": 6,
+      "title": "The Sickness",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/b1/22/fb/mzm.finoomon.aac.p.m4a",
+      "sec": 255
+    },
+    {
+      "n": 7,
+      "title": "Jerzy Kidz",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/e7/6e/c7/mzm.dbskgzwh.aac.p.m4a",
+      "sec": 246
+    },
+    {
+      "n": 8,
+      "title": "One Life",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/95/bb/c4/mzm.jevglqod.aac.p.m4a",
+      "sec": 251
+    },
+    {
+      "n": 9,
+      "title": "Interlude",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/Music2/v4/33/4b/09/334b0996-db1c-84c0-2adb-4d3a0dd70857/mzaf_4601351177957859334.plus.aac.p.m4a",
+      "sec": 38
+    },
+    {
+      "n": 10,
+      "title": "Ghost in a Shell",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/8f/0b/f9/mzm.hqbiqzxh.aac.p.m4a",
+      "sec": 257
+    },
+    {
+      "n": 11,
+      "title": "114 Barz",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/d5/28/09/mzm.rpwfqopr.aac.p.m4a",
+      "sec": 317
+    },
+    {
+      "n": 12,
+      "title": "Motion Picturez",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/a3/e7/08/mzm.ctjnxyjo.aac.p.m4a",
+      "sec": 154
+    },
+    {
+      "n": 13,
+      "title": "Sour Milk",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/4b/8f/c2/mzm.zvpuqrna.aac.p.m4a",
+      "sec": 183
+    },
+    {
+      "n": 14,
+      "title": "Bitchez (featuring Wheelz)",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/ae/62/ba/mzm.cuaqlslj.aac.p.m4a",
+      "sec": 234
+    },
+    {
+      "n": 15,
+      "title": "A Bee Cee'z",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/26/c6/d4/mzm.ippkozti.aac.p.m4a",
+      "sec": 240
+    },
+    {
+      "n": 16,
+      "title": "Don't Call Me (featuring N8than Speed)",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/bb/d3/7e/mzm.dzgzejsb.aac.p.m4a",
+      "sec": 270
+    },
+    {
+      "n": 17,
+      "title": "Goodbye to Yesterday",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/04/fc/bd/04fcbd8a-67ed-94ef-e523-b4f6684f4c35/mzaf_2925516898568369053.plus.aac.p.m4a",
+      "sec": 286
+    },
+    {
+      "n": 18,
+      "title": "The End of the World (featuring J-Street and Sess)",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/a4/b6/5d/mzm.lwrxxdlq.aac.p.m4a",
+      "sec": 232
+    }
+  ]
+}
